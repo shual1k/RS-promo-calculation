@@ -1,0 +1,456 @@
+<tr>
+<td>Ultra-Rare Prizes</td>
+<td><span class="pic-link inventory-image"><a href="/w/Box_of_superior_knowledge_bombs" title="Box of superior knowledge bombs"><img alt="Box of superior knowledge bombs.png: RS3 Inventory image of Box of superior knowledge bombs" src="/images/Box_of_superior_knowledge_bombs.png?fd9b5" decoding="async" width="27" height="30" data-file-width="27" data-file-height="30"></a></span><a href="/w/Box_of_superior_knowledge_bombs" title="Box of superior knowledge bombs">Box of superior knowledge bombs</a></td>
+<td style="text-align: center;"><img alt="THGem-ultra-rare.png" src="/images/thumb/THGem-ultra-rare.png/20px-THGem-ultra-rare.png?62f90" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-ultra-rare.png/30px-THGem-ultra-rare.png?62f90 1.5x, /images/thumb/THGem-ultra-rare.png/40px-THGem-ultra-rare.png?62f90 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.001%
+</td></tr>
+<tr>
+<td>Ultra-Rare Prizes</td>
+<td><span class="pic-link inventory-image"><a href="/w/Box_of_deathtouched_darts" title="Box of deathtouched darts"><img alt="Box of deathtouched darts.png: RS3 Inventory image of Box of deathtouched darts" src="/images/Box_of_deathtouched_darts.png?b50b2" decoding="async" width="27" height="30" data-file-width="27" data-file-height="30"></a></span><a href="/w/Box_of_deathtouched_darts" title="Box of deathtouched darts">Box of deathtouched darts</a></td>
+<td style="text-align: center;"><img alt="THGem-ultra-rare.png" src="/images/thumb/THGem-ultra-rare.png/20px-THGem-ultra-rare.png?62f90" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-ultra-rare.png/30px-THGem-ultra-rare.png?62f90 1.5x, /images/thumb/THGem-ultra-rare.png/40px-THGem-ultra-rare.png?62f90 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.001%
+</td></tr>
+<tr>
+<td>Ultra-Rare Prizes</td>
+<td><span class="pic-link inventory-image"><a href="/w/Box_of_protean_processors" title="Box of protean processors"><img alt="Box of protean processors.png: RS3 Inventory image of Box of protean processors" src="/images/Box_of_protean_processors.png?b7e75" decoding="async" width="27" height="30" data-file-width="27" data-file-height="30"></a></span><a href="/w/Box_of_protean_processors" title="Box of protean processors">Box of protean processors</a></td>
+<td style="text-align: center;"><img alt="THGem-ultra-rare.png" src="/images/thumb/THGem-ultra-rare.png/20px-THGem-ultra-rare.png?62f90" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-ultra-rare.png/30px-THGem-ultra-rare.png?62f90 1.5x, /images/thumb/THGem-ultra-rare.png/40px-THGem-ultra-rare.png?62f90 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.001%
+</td></tr>
+<tr>
+<td>Ultra-Rare Prizes</td>
+<td><span class="pic-link inventory-image"><a href="/w/Box_of_dummy_processors" title="Box of dummy processors"><img alt="Box of dummy processors.png: RS3 Inventory image of Box of dummy processors" src="/images/Box_of_dummy_processors.png?1e5d4" decoding="async" width="27" height="30" data-file-width="27" data-file-height="30"></a></span><a href="/w/Box_of_dummy_processors" title="Box of dummy processors">Box of dummy processors</a></td>
+<td style="text-align: center;"><img alt="THGem-ultra-rare.png" src="/images/thumb/THGem-ultra-rare.png/20px-THGem-ultra-rare.png?62f90" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-ultra-rare.png/30px-THGem-ultra-rare.png?62f90 1.5x, /images/thumb/THGem-ultra-rare.png/40px-THGem-ultra-rare.png?62f90 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.001%
+</td></tr>
+<tr>
+<td>Lamps</td>
+<td><span class="pic-link inventory-image"><a href="/w/Medium_prismatic_lamp" title="Medium prismatic lamp"><img alt="Medium prismatic lamp.png: RS3 Inventory image of Medium prismatic lamp" src="/images/Medium_prismatic_lamp.png?e8765" decoding="async" width="29" height="22" data-file-width="29" data-file-height="22"></a></span><a href="/w/Medium_prismatic_lamp" title="Medium prismatic lamp">Medium prismatic lamp</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>6.789%
+</td></tr>
+<tr>
+<td>Lamps</td>
+<td><span class="pic-link inventory-image"><a href="/w/Large_prismatic_lamp" title="Large prismatic lamp"><img alt="Large prismatic lamp.png: RS3 Inventory image of Large prismatic lamp" src="/images/Large_prismatic_lamp.png?b30c6" decoding="async" width="33" height="20" data-file-width="33" data-file-height="20"></a></span><a href="/w/Large_prismatic_lamp" title="Large prismatic lamp">Large prismatic lamp</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>3.45%
+</td></tr>
+<tr>
+<td>Lamps</td>
+<td><span class="pic-link inventory-image"><a href="/w/Huge_prismatic_lamp" title="Huge prismatic lamp"><img alt="Huge prismatic lamp.png: RS3 Inventory image of Huge prismatic lamp" src="/images/Huge_prismatic_lamp.png?f7229" decoding="async" width="32" height="23" data-file-width="32" data-file-height="23"></a></span><a href="/w/Huge_prismatic_lamp" title="Huge prismatic lamp">Huge prismatic lamp</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.003%
+</td></tr>
+<tr>
+<td>Lamps</td>
+<td><span class="pic-link inventory-image"><a href="/w/Giant_prismatic_lamp" title="Giant prismatic lamp"><img alt="Giant prismatic lamp.png: RS3 Inventory image of Giant prismatic lamp" src="/images/Giant_prismatic_lamp.png?b97f5" decoding="async" width="34" height="25" data-file-width="34" data-file-height="25"></a></span><a href="/w/Giant_prismatic_lamp" title="Giant prismatic lamp">Giant prismatic lamp</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.556%
+</td></tr>
+<tr>
+<td>Stars</td>
+<td><span class="pic-link inventory-image"><a href="/w/Medium_prismatic_fallen_star" title="Medium prismatic fallen star"><img alt="Medium prismatic fallen star.png: RS3 Inventory image of Medium prismatic fallen star" src="/images/Medium_prismatic_fallen_star.png?7975c" decoding="async" width="16" height="18" data-file-width="16" data-file-height="18"></a></span><a href="/w/Medium_prismatic_fallen_star" title="Medium prismatic fallen star">Medium prismatic fallen star</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>8.313%
+</td></tr>
+<tr>
+<td>Stars</td>
+<td><span class="pic-link inventory-image"><a href="/w/Large_prismatic_fallen_star" title="Large prismatic fallen star"><img alt="Large prismatic fallen star.png: RS3 Inventory image of Large prismatic fallen star" src="/images/Large_prismatic_fallen_star.png?04422" decoding="async" width="28" height="26" data-file-width="28" data-file-height="26"></a></span><a href="/w/Large_prismatic_fallen_star" title="Large prismatic fallen star">Large prismatic fallen star</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>4.224%
+</td></tr>
+<tr>
+<td>Stars</td>
+<td><span class="pic-link inventory-image"><a href="/w/Huge_prismatic_fallen_star" title="Huge prismatic fallen star"><img alt="Huge prismatic fallen star.png: RS3 Inventory image of Huge prismatic fallen star" src="/images/Huge_prismatic_fallen_star.png?b7df4" decoding="async" width="27" height="29" data-file-width="27" data-file-height="29"></a></span><a href="/w/Huge_prismatic_fallen_star" title="Huge prismatic fallen star">Huge prismatic fallen star</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.18%
+</td></tr>
+<tr>
+<td>Stars</td>
+<td><span class="pic-link inventory-image"><a href="/w/Giant_prismatic_fallen_star" title="Giant prismatic fallen star"><img alt="Giant prismatic fallen star.png: RS3 Inventory image of Giant prismatic fallen star" src="/images/Giant_prismatic_fallen_star.png?b97f5" decoding="async" width="29" height="33" data-file-width="29" data-file-height="33"></a></span><a href="/w/Giant_prismatic_fallen_star" title="Giant prismatic fallen star">Giant prismatic fallen star</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.681%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>75 <span class="pic-link inventory-image"><a href="/w/Protean_bar" title="Protean bar"><img alt="Protean bar.png: RS3 Inventory image of Protean bar" src="/images/Protean_bar.png?c789f" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Protean_bar" title="Protean bar">Protean bars</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.85%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>75 <span class="pic-link inventory-image"><a href="/w/Protean_plank" title="Protean plank"><img alt="Protean plank.png: RS3 Inventory image of Protean plank" src="/images/Protean_plank.png?bc07c" decoding="async" width="23" height="22" data-file-width="23" data-file-height="22"></a></span><a href="/w/Protean_plank" title="Protean plank">Protean planks</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.85%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>75 <span class="pic-link inventory-image"><a href="/w/Protean_trap" title="Protean trap"><img alt="Protean trap.png: RS3 Inventory image of Protean trap" src="/images/Protean_trap.png?a8f89" decoding="async" width="18" height="30" data-file-width="18" data-file-height="30"></a></span><a href="/w/Protean_trap" title="Protean trap">Protean traps</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.85%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>75 <span class="pic-link inventory-image"><a href="/w/Protean_hide" title="Protean hide"><img alt="Protean hide.png: RS3 Inventory image of Protean hide" src="/images/Protean_hide.png?a728a" decoding="async" width="24" height="30" data-file-width="24" data-file-height="30"></a></span><a href="/w/Protean_hide" title="Protean hide">Protean hides</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.85%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>75 <span class="pic-link inventory-image"><a href="/w/Protean_logs" title="Protean logs"><img alt="Protean logs.png: RS3 Inventory image of Protean logs" src="/images/Protean_logs.png?d67c1" decoding="async" width="33" height="26" data-file-width="33" data-file-height="26"></a></span><a href="/w/Protean_logs" title="Protean logs">Protean logs</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.85%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>75 <span class="pic-link inventory-image"><a href="/w/Protean_memory" title="Protean memory"><img alt="Protean memory.png: RS3 Inventory image of Protean memory" src="/images/Protean_memory.png?8892d" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28"></a></span><a href="/w/Protean_memory" title="Protean memory">Protean memories</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.85%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>75 <span class="pic-link inventory-image"><a href="/w/Protean_cog" title="Protean cog"><img alt="Protean cog.png: RS3 Inventory image of Protean cog" src="/images/Protean_cog.png?294a4" decoding="async" width="30" height="29" data-file-width="30" data-file-height="29"></a></span><a href="/w/Protean_cog" title="Protean cog">Protean cogs</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.85%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>150 <span class="pic-link inventory-image"><a href="/w/Protean_bar" title="Protean bar"><img alt="Protean bar.png: RS3 Inventory image of Protean bar" src="/images/Protean_bar.png?c789f" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Protean_bar" title="Protean bar">Protean bars</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.425%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>150 <span class="pic-link inventory-image"><a href="/w/Protean_plank" title="Protean plank"><img alt="Protean plank.png: RS3 Inventory image of Protean plank" src="/images/Protean_plank.png?bc07c" decoding="async" width="23" height="22" data-file-width="23" data-file-height="22"></a></span><a href="/w/Protean_plank" title="Protean plank">Protean planks</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.425%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>150 <span class="pic-link inventory-image"><a href="/w/Protean_trap" title="Protean trap"><img alt="Protean trap.png: RS3 Inventory image of Protean trap" src="/images/Protean_trap.png?a8f89" decoding="async" width="18" height="30" data-file-width="18" data-file-height="30"></a></span><a href="/w/Protean_trap" title="Protean trap">Protean traps</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.425%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>150 <span class="pic-link inventory-image"><a href="/w/Protean_hide" title="Protean hide"><img alt="Protean hide.png: RS3 Inventory image of Protean hide" src="/images/Protean_hide.png?a728a" decoding="async" width="24" height="30" data-file-width="24" data-file-height="30"></a></span><a href="/w/Protean_hide" title="Protean hide">Protean hides</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.425%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>150 <span class="pic-link inventory-image"><a href="/w/Protean_logs" title="Protean logs"><img alt="Protean logs.png: RS3 Inventory image of Protean logs" src="/images/Protean_logs.png?d67c1" decoding="async" width="33" height="26" data-file-width="33" data-file-height="26"></a></span><a href="/w/Protean_logs" title="Protean logs">Protean logs</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.425%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>150 <span class="pic-link inventory-image"><a href="/w/Protean_memory" title="Protean memory"><img alt="Protean memory.png: RS3 Inventory image of Protean memory" src="/images/Protean_memory.png?8892d" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28"></a></span><a href="/w/Protean_memory" title="Protean memory">Protean memories</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.425%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>150 <span class="pic-link inventory-image"><a href="/w/Protean_cog" title="Protean cog"><img alt="Protean cog.png: RS3 Inventory image of Protean cog" src="/images/Protean_cog.png?294a4" decoding="async" width="30" height="29" data-file-width="30" data-file-height="29"></a></span><a href="/w/Protean_cog" title="Protean cog">Protean cogs</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.425%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>300 <span class="pic-link inventory-image"><a href="/w/Protean_bar" title="Protean bar"><img alt="Protean bar.png: RS3 Inventory image of Protean bar" src="/images/Protean_bar.png?c789f" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Protean_bar" title="Protean bar">Protean bars</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.119%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>300 <span class="pic-link inventory-image"><a href="/w/Protean_plank" title="Protean plank"><img alt="Protean plank.png: RS3 Inventory image of Protean plank" src="/images/Protean_plank.png?bc07c" decoding="async" width="23" height="22" data-file-width="23" data-file-height="22"></a></span><a href="/w/Protean_plank" title="Protean plank">Protean planks</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.119%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>300 <span class="pic-link inventory-image"><a href="/w/Protean_trap" title="Protean trap"><img alt="Protean trap.png: RS3 Inventory image of Protean trap" src="/images/Protean_trap.png?a8f89" decoding="async" width="18" height="30" data-file-width="18" data-file-height="30"></a></span><a href="/w/Protean_trap" title="Protean trap">Protean traps</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.119%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>300 <span class="pic-link inventory-image"><a href="/w/Protean_hide" title="Protean hide"><img alt="Protean hide.png: RS3 Inventory image of Protean hide" src="/images/Protean_hide.png?a728a" decoding="async" width="24" height="30" data-file-width="24" data-file-height="30"></a></span><a href="/w/Protean_hide" title="Protean hide">Protean hides</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.119%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>300 <span class="pic-link inventory-image"><a href="/w/Protean_logs" title="Protean logs"><img alt="Protean logs.png: RS3 Inventory image of Protean logs" src="/images/Protean_logs.png?d67c1" decoding="async" width="33" height="26" data-file-width="33" data-file-height="26"></a></span><a href="/w/Protean_logs" title="Protean logs">Protean logs</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.119%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>300 <span class="pic-link inventory-image"><a href="/w/Protean_memory" title="Protean memory"><img alt="Protean memory.png: RS3 Inventory image of Protean memory" src="/images/Protean_memory.png?8892d" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28"></a></span><a href="/w/Protean_memory" title="Protean memory">Protean memories</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.119%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>300 <span class="pic-link inventory-image"><a href="/w/Protean_cog" title="Protean cog"><img alt="Protean cog.png: RS3 Inventory image of Protean cog" src="/images/Protean_cog.png?294a4" decoding="async" width="30" height="29" data-file-width="30" data-file-height="29"></a></span><a href="/w/Protean_cog" title="Protean cog">Protean cogs</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.119%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>1,000 <span class="pic-link inventory-image"><a href="/w/Protean_bar" title="Protean bar"><img alt="Protean bar.png: RS3 Inventory image of Protean bar" src="/images/Protean_bar.png?c789f" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Protean_bar" title="Protean bar">Protean bars</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.034%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>1,000 <span class="pic-link inventory-image"><a href="/w/Protean_plank" title="Protean plank"><img alt="Protean plank.png: RS3 Inventory image of Protean plank" src="/images/Protean_plank.png?bc07c" decoding="async" width="23" height="22" data-file-width="23" data-file-height="22"></a></span><a href="/w/Protean_plank" title="Protean plank">Protean planks</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.034%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>1,000 <span class="pic-link inventory-image"><a href="/w/Protean_trap" title="Protean trap"><img alt="Protean trap.png: RS3 Inventory image of Protean trap" src="/images/Protean_trap.png?a8f89" decoding="async" width="18" height="30" data-file-width="18" data-file-height="30"></a></span><a href="/w/Protean_trap" title="Protean trap">Protean traps</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.034%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>1,000 <span class="pic-link inventory-image"><a href="/w/Protean_hide" title="Protean hide"><img alt="Protean hide.png: RS3 Inventory image of Protean hide" src="/images/Protean_hide.png?a728a" decoding="async" width="24" height="30" data-file-width="24" data-file-height="30"></a></span><a href="/w/Protean_hide" title="Protean hide">Protean hides</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.034%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>1,000 <span class="pic-link inventory-image"><a href="/w/Protean_logs" title="Protean logs"><img alt="Protean logs.png: RS3 Inventory image of Protean logs" src="/images/Protean_logs.png?d67c1" decoding="async" width="33" height="26" data-file-width="33" data-file-height="26"></a></span><a href="/w/Protean_logs" title="Protean logs">Protean logs</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.034%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>1,000 <span class="pic-link inventory-image"><a href="/w/Protean_memory" title="Protean memory"><img alt="Protean memory.png: RS3 Inventory image of Protean memory" src="/images/Protean_memory.png?8892d" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28"></a></span><a href="/w/Protean_memory" title="Protean memory">Protean memories</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.034%
+</td></tr>
+<tr>
+<td>Proteans</td>
+<td>1,000 <span class="pic-link inventory-image"><a href="/w/Protean_cog" title="Protean cog"><img alt="Protean cog.png: RS3 Inventory image of Protean cog" src="/images/Protean_cog.png?294a4" decoding="async" width="30" height="29" data-file-width="30" data-file-height="29"></a></span><a href="/w/Protean_cog" title="Protean cog">Protean cogs</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.034%
+</td></tr>
+<tr>
+<td>Cash Bags</td>
+<td><span class="pic-link inventory-image"><a href="/w/Small_cash_bag" title="Small cash bag"><img alt="Small cash bag.png: RS3 Inventory image of Small cash bag" src="/images/Small_cash_bag.png?abfec" decoding="async" width="15" height="25" data-file-width="15" data-file-height="25"></a></span><a href="/w/Small_cash_bag" title="Small cash bag">Small cash bag</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>4.329%
+</td></tr>
+<tr>
+<td>Cash Bags</td>
+<td><span class="pic-link inventory-image"><a href="/w/Medium_cash_bag" title="Medium cash bag"><img alt="Medium cash bag.png: RS3 Inventory image of Medium cash bag" src="/images/Medium_cash_bag.png?e9889" decoding="async" width="21" height="18" data-file-width="21" data-file-height="18"></a></span><a href="/w/Medium_cash_bag" title="Medium cash bag">Medium cash bag</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.48%
+</td></tr>
+<tr>
+<td>Cash Bags</td>
+<td><span class="pic-link inventory-image"><a href="/w/Large_cash_bag" title="Large cash bag"><img alt="Large cash bag.png: RS3 Inventory image of Large cash bag" src="/images/Large_cash_bag.png?da650" decoding="async" width="24" height="24" data-file-width="24" data-file-height="24"></a></span><a href="/w/Large_cash_bag" title="Large cash bag">Large cash bag</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.144%
+</td></tr>
+<tr>
+<td>Cash Bags</td>
+<td><span class="pic-link inventory-image"><a href="/w/Huge_cash_bag" title="Huge cash bag"><img alt="Huge cash bag.png: RS3 Inventory image of Huge cash bag" src="/images/Huge_cash_bag.png?4f658" decoding="async" width="30" height="30" data-file-width="30" data-file-height="30"></a></span><a href="/w/Huge_cash_bag" title="Huge cash bag">Huge cash bag</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.036%
+</td></tr>
+<tr>
+<td>Cash Bags</td>
+<td>50,000,000 <span class="pic-link inventory-image"><a href="/w/Coins" title="Coins"><img alt="Coins.png: RS3 Inventory image of Coins" src="/images/Coins_10000.png?037a1" decoding="async" width="31" height="30" data-file-width="31" data-file-height="30"></a></span><a href="/w/Coins" title="Coins">Coins</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.002%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>100 <span class="pic-link inventory-image"><a href="/w/Spring" title="Spring"><img alt="Spring.png: RS3 Inventory image of Spring" src="/images/Spring.png?4f458" decoding="async" width="27" height="31" data-file-width="27" data-file-height="31"></a></span><a href="/w/Spring" title="Spring">Springs</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.792%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>200 <span class="pic-link inventory-image"><a href="/w/Spring" title="Spring"><img alt="Spring.png: RS3 Inventory image of Spring" src="/images/Spring.png?4f458" decoding="async" width="27" height="31" data-file-width="27" data-file-height="31"></a></span><a href="/w/Spring" title="Spring">Springs</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>1.094%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>400 <span class="pic-link inventory-image"><a href="/w/Spring" title="Spring"><img alt="Spring.png: RS3 Inventory image of Spring" src="/images/Spring.png?4f458" decoding="async" width="27" height="31" data-file-width="27" data-file-height="31"></a></span><a href="/w/Spring" title="Spring">Springs</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.377%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>800 <span class="pic-link inventory-image"><a href="/w/Spring" title="Spring"><img alt="Spring.png: RS3 Inventory image of Spring" src="/images/Spring.png?4f458" decoding="async" width="27" height="31" data-file-width="27" data-file-height="31"></a></span><a href="/w/Spring" title="Spring">Springs</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.114%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>40 <span class="pic-link inventory-image"><a href="/w/Silverhawk_feathers" title="Silverhawk feathers"><img alt="Silverhawk feathers.png: RS3 Inventory image of Silverhawk feathers" src="/images/Silverhawk_feathers_5.png?ed371" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Silverhawk_feathers" title="Silverhawk feathers">Silverhawk feathers</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.792%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>80 <span class="pic-link inventory-image"><a href="/w/Silverhawk_feathers" title="Silverhawk feathers"><img alt="Silverhawk feathers.png: RS3 Inventory image of Silverhawk feathers" src="/images/Silverhawk_feathers_5.png?ed371" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Silverhawk_feathers" title="Silverhawk feathers">Silverhawk feathers</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>1.094%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>160 <span class="pic-link inventory-image"><a href="/w/Silverhawk_feathers" title="Silverhawk feathers"><img alt="Silverhawk feathers.png: RS3 Inventory image of Silverhawk feathers" src="/images/Silverhawk_feathers_5.png?ed371" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Silverhawk_feathers" title="Silverhawk feathers">Silverhawk feathers</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.377%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>240 <span class="pic-link inventory-image"><a href="/w/Silverhawk_feathers" title="Silverhawk feathers"><img alt="Silverhawk feathers.png: RS3 Inventory image of Silverhawk feathers" src="/images/Silverhawk_feathers_5.png?ed371" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Silverhawk_feathers" title="Silverhawk feathers">Silverhawk feathers</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.114%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td><span class="pic-link inventory-image"><a href="/w/Small_portable_skilling_pack" title="Small portable skilling pack"><img alt="Small portable skilling pack.png: RS3 Inventory image of Small portable skilling pack" src="/images/Small_portable_skilling_pack.png?1ec20" decoding="async" width="25" height="24" data-file-width="25" data-file-height="24"></a></span><a href="/w/Small_portable_skilling_pack" title="Small portable skilling pack">Small portable skilling pack</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.792%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td><span class="pic-link inventory-image"><a href="/w/Medium_portable_skilling_pack" title="Medium portable skilling pack"><img alt="Medium portable skilling pack.png: RS3 Inventory image of Medium portable skilling pack" src="/images/Medium_portable_skilling_pack.png?0421b" decoding="async" width="21" height="20" data-file-width="21" data-file-height="20"></a></span><a href="/w/Medium_portable_skilling_pack" title="Medium portable skilling pack">Medium portable skilling pack</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>1.094%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td><span class="pic-link inventory-image"><a href="/w/Large_portable_skilling_pack" title="Large portable skilling pack"><img alt="Large portable skilling pack.png: RS3 Inventory image of Large portable skilling pack" src="/images/Large_portable_skilling_pack.png?a8739" decoding="async" width="25" height="24" data-file-width="25" data-file-height="24"></a></span><a href="/w/Large_portable_skilling_pack" title="Large portable skilling pack">Large portable skilling pack</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.377%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td><span class="pic-link inventory-image"><a href="/w/Huge_portable_skilling_pack" title="Huge portable skilling pack"><img alt="Huge portable skilling pack.png: RS3 Inventory image of Huge portable skilling pack" src="/images/Huge_portable_skilling_pack.png?b52df" decoding="async" width="32" height="29" data-file-width="32" data-file-height="29"></a></span><a href="/w/Huge_portable_skilling_pack" title="Huge portable skilling pack">Huge portable skilling pack</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.114%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>150 <span class="pic-link inventory-image"><a href="/w/Magic_notepaper" title="Magic notepaper"><img alt="Magic notepaper.png: RS3 Inventory image of Magic notepaper" src="/images/Magic_notepaper_5.png?abdf4" decoding="async" width="27" height="27" data-file-width="27" data-file-height="27"></a></span><a href="/w/Magic_notepaper" title="Magic notepaper">Magic notepaper</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.792%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>300 <span class="pic-link inventory-image"><a href="/w/Magic_notepaper" title="Magic notepaper"><img alt="Magic notepaper.png: RS3 Inventory image of Magic notepaper" src="/images/Magic_notepaper_5.png?abdf4" decoding="async" width="27" height="27" data-file-width="27" data-file-height="27"></a></span><a href="/w/Magic_notepaper" title="Magic notepaper">Magic notepaper</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>1.094%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td><span class="pic-link inventory-image"><a href="/w/Distraction_%26_Diversion_reset_token_(weekly)" title="Distraction &amp; Diversion reset token (weekly)"><img alt="Distraction &amp; Diversion reset token (weekly).png: RS3 Inventory image of Distraction &amp; Diversion reset token (weekly)" src="/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb" decoding="async" width="22" height="29" data-file-width="22" data-file-height="29"></a></span><a href="/w/Distraction_%26_Diversion_reset_token_(weekly)" title="Distraction &amp; Diversion reset token (weekly)">Distraction &amp; Diversion reset token (weekly)</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.792%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td><span class="pic-link inventory-image"><a href="/w/Distraction_%26_Diversion_reset_token_(monthly)" title="Distraction &amp; Diversion reset token (monthly)"><img alt="Distraction &amp; Diversion reset token (monthly).png: RS3 Inventory image of Distraction &amp; Diversion reset token (monthly)" src="/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5" decoding="async" width="22" height="29" data-file-width="22" data-file-height="29"></a></span><a href="/w/Distraction_%26_Diversion_reset_token_(monthly)" title="Distraction &amp; Diversion reset token (monthly)">Distraction &amp; Diversion reset token (monthly)</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>1.094%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>3 <span class="pic-link inventory-image"><a href="/w/Cinder_core" title="Cinder core"><img alt="Cinder core.png: RS3 Inventory image of Cinder core" src="/images/Cinder_core.png?318da" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28"></a></span><a href="/w/Cinder_core" title="Cinder core">Cinder cores</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.377%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td>3 <span class="pic-link inventory-image"><a href="/w/Advanced_pulse_core" title="Advanced pulse core"><img alt="Advanced pulse core.png: RS3 Inventory image of Advanced pulse core" src="/images/Advanced_pulse_core.png?3eb39" decoding="async" width="29" height="30" data-file-width="29" data-file-height="30"></a></span><a href="/w/Advanced_pulse_core" title="Advanced pulse core">Advanced pulse cores</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.377%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td><span class="pic-link inventory-image"><a href="/w/Medium_dungeoneering_token_box" title="Medium dungeoneering token box"><img alt="Medium dungeoneering token box.png: RS3 Inventory image of Medium dungeoneering token box" src="/images/Medium_dungeoneering_token_box.png?4341f" decoding="async" width="31" height="24" data-file-width="31" data-file-height="24"></a></span><a href="/w/Medium_dungeoneering_token_box" title="Medium dungeoneering token box">Medium dungeoneering token box</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.792%
+</td></tr>
+<tr>
+<td>Utility</td>
+<td><span class="pic-link inventory-image"><a href="/w/Large_dungeoneering_token_box" title="Large dungeoneering token box"><img alt="Large dungeoneering token box.png: RS3 Inventory image of Large dungeoneering token box" src="/images/Large_dungeoneering_token_box.png?e514d" decoding="async" width="31" height="24" data-file-width="31" data-file-height="24"></a></span><a href="/w/Large_dungeoneering_token_box" title="Large dungeoneering token box">Large dungeoneering token box</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>1.094%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>3 <span class="pic-link inventory-image"><a href="/w/Combat_training_dummy" title="Combat training dummy"><img alt="Combat training dummy.png: RS3 Inventory image of Combat training dummy" src="/images/Combat_training_dummy.png?34149" decoding="async" width="23" height="31" data-file-width="23" data-file-height="31"></a></span><a href="/w/Combat_training_dummy" title="Combat training dummy">Combat training dummies</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>7.775%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>5 <span class="pic-link inventory-image"><a href="/w/Combat_training_dummy" title="Combat training dummy"><img alt="Combat training dummy.png: RS3 Inventory image of Combat training dummy" src="/images/Combat_training_dummy.png?34149" decoding="async" width="23" height="31" data-file-width="23" data-file-height="31"></a></span><a href="/w/Combat_training_dummy" title="Combat training dummy">Combat training dummies</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>3.049%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>3 <span class="pic-link inventory-image"><a href="/w/Spirit_dragonstone" title="Spirit dragonstone"><img alt="Spirit dragonstone.png: RS3 Inventory image of Spirit dragonstone" src="/images/Spirit_dragonstone.png?bf960" decoding="async" width="20" height="19" data-file-width="20" data-file-height="19"></a></span><a href="/w/Spirit_dragonstone" title="Spirit dragonstone">Spirit dragonstones</a></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>7.775%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>3 <span class="pic-link inventory-image"><a href="/w/Spirit_onyx" title="Spirit onyx"><img alt="Spirit onyx.png: RS3 Inventory image of Spirit onyx" src="/images/Spirit_onyx.png?c9302" decoding="async" width="20" height="19" data-file-width="20" data-file-height="19"></a></span><a href="/w/Spirit_onyx" title="Spirit onyx">Spirit onyxes</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>3.049%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td><span class="pic-link inventory-image"><a href="/w/Medium_skill_training_dummy_crate" title="Medium skill training dummy crate"><img alt="Medium skill training dummy crate.png: RS3 Inventory image of Medium skill training dummy crate" src="/images/Medium_skill_training_dummy_crate.png?404d7" decoding="async" width="19" height="21" data-file-width="19" data-file-height="21"></a></span><a href="/w/Medium_skill_training_dummy_crate" title="Medium skill training dummy crate">Medium skill training dummy crate</a></td>
+<td style="text-align: center;"><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.304%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td><span class="pic-link inventory-image"><a href="/w/Large_skill_training_dummy_crate" title="Large skill training dummy crate"><img alt="Large skill training dummy crate.png: RS3 Inventory image of Large skill training dummy crate" src="/images/Large_skill_training_dummy_crate.png?c0a5f" decoding="async" width="22" height="25" data-file-width="22" data-file-height="25"></a></span><a href="/w/Large_skill_training_dummy_crate" title="Large skill training dummy crate">Large skill training dummy crate</a></td>
+<td style="text-align: center;"><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.106%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>3 <span class="pic-link inventory-image"><a href="/w/Large_skill_training_dummy_crate" title="Large skill training dummy crate"><img alt="Large skill training dummy crate.png: RS3 Inventory image of Large skill training dummy crate" src="/images/Large_skill_training_dummy_crate.png?c0a5f" decoding="async" width="22" height="25" data-file-width="22" data-file-height="25"></a></span><a href="/w/Large_skill_training_dummy_crate" title="Large skill training dummy crate">Large skill training dummy crates</a></td>
+<td style="text-align: center;"><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90"></td>
+<td>0.03%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>Divine Mining locations<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[a 1]</a></sup></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.286%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>Divine Fishing locations<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[a 2]</a></sup></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.286%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>Divine Woodcutting locations<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[a 3]</a></sup></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.286%
+</td></tr>
+<tr>
+<td>Skilling Supplies</td>
+<td>Divine Hunter locations<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[a 4]</a></sup></td>
+<td style="text-align: center;"><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90"></td>
+<td>2.286%
+</td>

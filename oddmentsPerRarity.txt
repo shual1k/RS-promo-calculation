@@ -1,0 +1,54 @@
+<tr>
+<td><img alt="THGem-common.png" src="/images/thumb/THGem-common.png/20px-THGem-common.png?13a63" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-common.png/30px-THGem-common.png?13a63 1.5x, /images/thumb/THGem-common.png/40px-THGem-common.png?13a63 2x" data-file-width="66" data-file-height="90">
+</td>
+<td>Common
+</td>
+<td>10
+</td>
+<td>35 (10 + 25)
+</td></tr>
+<tr>
+<td><img alt="THGem-fairly-common.png" src="/images/thumb/THGem-fairly-common.png/20px-THGem-fairly-common.png?edbc3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-fairly-common.png/30px-THGem-fairly-common.png?edbc3 1.5x, /images/thumb/THGem-fairly-common.png/40px-THGem-fairly-common.png?edbc3 2x" data-file-width="66" data-file-height="90">
+</td>
+<td>Fairly common
+</td>
+<td>25
+</td>
+<td>85 (25 + 60)
+</td></tr>
+<tr>
+<td><img alt="THGem-uncommon.png" src="/images/thumb/THGem-uncommon.png/20px-THGem-uncommon.png?ffa92" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-uncommon.png/30px-THGem-uncommon.png?ffa92 1.5x, /images/thumb/THGem-uncommon.png/40px-THGem-uncommon.png?ffa92 2x" data-file-width="66" data-file-height="90">
+</td>
+<td>Uncommon
+</td>
+<td>50
+</td>
+<td>170 (50 + 120)
+</td></tr>
+<tr>
+<td><img alt="THGem-rare.png" src="/images/thumb/THGem-rare.png/20px-THGem-rare.png?abdb3" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-rare.png/30px-THGem-rare.png?abdb3 1.5x, /images/thumb/THGem-rare.png/40px-THGem-rare.png?abdb3 2x" data-file-width="66" data-file-height="90">
+</td>
+<td>Rare
+</td>
+<td>100
+</td>
+<td>400 (100 + 300)
+</td></tr>
+<tr>
+<td><img alt="THGem-very-rare.png" src="/images/thumb/THGem-very-rare.png/20px-THGem-very-rare.png?f9016" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-very-rare.png/30px-THGem-very-rare.png?f9016 1.5x, /images/thumb/THGem-very-rare.png/40px-THGem-very-rare.png?f9016 2x" data-file-width="66" data-file-height="90">
+</td>
+<td>Very rare
+</td>
+<td>250
+</td>
+<td>1,100 (250 + 850)
+</td></tr>
+<tr>
+<td><img alt="THGem-ultra-rare.png" src="/images/thumb/THGem-ultra-rare.png/20px-THGem-ultra-rare.png?62f90" decoding="async" width="20" height="27" srcset="/images/thumb/THGem-ultra-rare.png/30px-THGem-ultra-rare.png?62f90 1.5x, /images/thumb/THGem-ultra-rare.png/40px-THGem-ultra-rare.png?62f90 2x" data-file-width="66" data-file-height="90">
+</td>
+<td>Ultra-Rare<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</td>
+<td>500
+</td>
+<td>2,250 (500 + 1,750)
+</td>
